@@ -1,5 +1,5 @@
 # myself-essay1
-Its my first repo on myself
+Its my first repo on myself.
 <br/>
 My self Ahmad Waqas.
 <br>
